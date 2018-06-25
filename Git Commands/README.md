@@ -1,4 +1,5 @@
 ## Basic Git Commands
+Taken from - http://guides.beanstalkapp.com/version-control/common-git-commands.html
 
 ### Make current directory a git repository
 ```
