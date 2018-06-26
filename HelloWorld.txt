@@ -1,1 +1,3 @@
 Hello World from Git Bash for Windows!
+
+New Release coming soon!
