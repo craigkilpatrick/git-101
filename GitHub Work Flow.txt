@@ -1,0 +1,15 @@
+-- GitHub Work Flow --
+
+1. Clone the repository from GitHub.
+
+2. Create a topic branch from master/development.
+
+3. Make some commits.
+
+4. Push this branch and commits to GitHub.
+
+5. Open a pull request on GitHub.
+
+6. Discuss, and optionally continue committing.
+
+7. The creator of the pull request merges or closes the pull request.
