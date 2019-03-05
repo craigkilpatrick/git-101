@@ -1,5 +1,3 @@
 Hello World from Git Bash for Windows!
 
-New Release coming soon!
-
-New release is not coming soon! Howdy Doody!
+Testing git capabilities within VS Code.
